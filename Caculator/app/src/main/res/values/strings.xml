@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Caculator</string>
+    <string name="result_view">textResult</string>
+</resources>
